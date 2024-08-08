@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "@mdi/font": "^7.4.47",
+    "ajv": "^8.6.3",
+    "ajv-keywords": "^5.0.0",
     "axios": "^1.7.2",
     "core-js": "^3.8.3",
     "pdfjs-dist": "^4.5.136",
